@@ -1,0 +1,11 @@
+.env
+.venv/
+.vscode/
+__pycache__/
+data/
+docs/
+chroma_db*/
+rag.ipynb
+ragi.py 
+ragi2.py 
+abc.py 
